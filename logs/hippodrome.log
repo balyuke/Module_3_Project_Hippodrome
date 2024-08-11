@@ -1,0 +1,138 @@
+2024-08-11 18:27:27,930 DEBUG com.javarush.baliuk.hippodrome.Horse: Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-08-11 18:27:27,932 DEBUG com.javarush.baliuk.hippodrome.Horse: Создание Horse, имя [Ace of Spades], скорость [2.5]
+2024-08-11 18:27:27,932 DEBUG com.javarush.baliuk.hippodrome.Horse: Создание Horse, имя [Zephyr], скорость [2.6]
+2024-08-11 18:27:27,932 DEBUG com.javarush.baliuk.hippodrome.Horse: Создание Horse, имя [Blaze], скорость [2.7]
+2024-08-11 18:27:27,932 DEBUG com.javarush.baliuk.hippodrome.Horse: Создание Horse, имя [Lobster], скорость [2.8]
+2024-08-11 18:27:27,933 DEBUG com.javarush.baliuk.hippodrome.Horse: Создание Horse, имя [Pegasus], скорость [2.9]
+2024-08-11 18:27:27,933 DEBUG com.javarush.baliuk.hippodrome.Horse: Создание Horse, имя [Cherry], скорость [3.0]
+2024-08-11 18:27:27,933 DEBUG com.javarush.baliuk.hippodrome.Hippodrome: Создание Hippodrome, лошадей [7]
+2024-08-11 18:27:27,933 INFO  com.javarush.baliuk.hippodrome.Main: Начало скачек. Количество участников: 7
+2024-08-11 18:27:27,940 TRACE com.javarush.baliuk.hippodrome.Main: .Bucephalus
+2024-08-11 18:27:27,940 TRACE com.javarush.baliuk.hippodrome.Main: .Ace of Spades
+2024-08-11 18:27:27,940 TRACE com.javarush.baliuk.hippodrome.Main: .Zephyr
+2024-08-11 18:27:27,940 TRACE com.javarush.baliuk.hippodrome.Main: ..Blaze
+2024-08-11 18:27:27,940 TRACE com.javarush.baliuk.hippodrome.Main: .Lobster
+2024-08-11 18:27:27,940 TRACE com.javarush.baliuk.hippodrome.Main: ..Pegasus
+2024-08-11 18:27:27,940 TRACE com.javarush.baliuk.hippodrome.Main: ..Cherry
+2024-08-11 18:27:27,940 TRACE com.javarush.baliuk.hippodrome.Main: 
+
+2024-08-11 18:27:28,154 TRACE com.javarush.baliuk.hippodrome.Main: ...Bucephalus
+2024-08-11 18:27:28,154 TRACE com.javarush.baliuk.hippodrome.Main: ..Ace of Spades
+2024-08-11 18:27:28,154 TRACE com.javarush.baliuk.hippodrome.Main: ..Zephyr
+2024-08-11 18:27:28,154 TRACE com.javarush.baliuk.hippodrome.Main: ...Blaze
+2024-08-11 18:27:28,154 TRACE com.javarush.baliuk.hippodrome.Main: ..Lobster
+2024-08-11 18:27:28,154 TRACE com.javarush.baliuk.hippodrome.Main: ...Pegasus
+2024-08-11 18:27:28,155 TRACE com.javarush.baliuk.hippodrome.Main: ...Cherry
+2024-08-11 18:27:28,155 TRACE com.javarush.baliuk.hippodrome.Main: 
+
+2024-08-11 18:27:28,358 TRACE com.javarush.baliuk.hippodrome.Main: ...Bucephalus
+2024-08-11 18:27:28,358 TRACE com.javarush.baliuk.hippodrome.Main: ....Ace of Spades
+2024-08-11 18:27:28,358 TRACE com.javarush.baliuk.hippodrome.Main: ....Zephyr
+2024-08-11 18:27:28,358 TRACE com.javarush.baliuk.hippodrome.Main: .....Blaze
+2024-08-11 18:27:28,358 TRACE com.javarush.baliuk.hippodrome.Main: ...Lobster
+2024-08-11 18:27:28,358 TRACE com.javarush.baliuk.hippodrome.Main: .....Pegasus
+2024-08-11 18:27:28,358 TRACE com.javarush.baliuk.hippodrome.Main: .....Cherry
+2024-08-11 18:27:28,358 TRACE com.javarush.baliuk.hippodrome.Main: 
+
+2024-08-11 18:27:28,564 TRACE com.javarush.baliuk.hippodrome.Main: .....Bucephalus
+2024-08-11 18:27:28,564 TRACE com.javarush.baliuk.hippodrome.Main: .....Ace of Spades
+2024-08-11 18:27:28,564 TRACE com.javarush.baliuk.hippodrome.Main: ......Zephyr
+2024-08-11 18:27:28,564 TRACE com.javarush.baliuk.hippodrome.Main: ......Blaze
+2024-08-11 18:27:28,564 TRACE com.javarush.baliuk.hippodrome.Main: .....Lobster
+2024-08-11 18:27:28,564 TRACE com.javarush.baliuk.hippodrome.Main: ......Pegasus
+2024-08-11 18:27:28,564 TRACE com.javarush.baliuk.hippodrome.Main: .......Cherry
+2024-08-11 18:27:28,564 TRACE com.javarush.baliuk.hippodrome.Main: 
+
+2024-08-11 18:27:28,769 TRACE com.javarush.baliuk.hippodrome.Main: ......Bucephalus
+2024-08-11 18:27:28,769 TRACE com.javarush.baliuk.hippodrome.Main: .......Ace of Spades
+2024-08-11 18:27:28,769 TRACE com.javarush.baliuk.hippodrome.Main: .......Zephyr
+2024-08-11 18:27:28,769 TRACE com.javarush.baliuk.hippodrome.Main: .......Blaze
+2024-08-11 18:27:28,769 TRACE com.javarush.baliuk.hippodrome.Main: .......Lobster
+2024-08-11 18:27:28,769 TRACE com.javarush.baliuk.hippodrome.Main: ........Pegasus
+2024-08-11 18:27:28,770 TRACE com.javarush.baliuk.hippodrome.Main: .......Cherry
+2024-08-11 18:27:28,770 TRACE com.javarush.baliuk.hippodrome.Main: 
+
+2024-08-11 18:27:28,975 TRACE com.javarush.baliuk.hippodrome.Main: .......Bucephalus
+2024-08-11 18:27:28,975 TRACE com.javarush.baliuk.hippodrome.Main: ........Ace of Spades
+2024-08-11 18:27:28,975 TRACE com.javarush.baliuk.hippodrome.Main: ........Zephyr
+2024-08-11 18:27:28,975 TRACE com.javarush.baliuk.hippodrome.Main: .........Blaze
+2024-08-11 18:27:28,975 TRACE com.javarush.baliuk.hippodrome.Main: ........Lobster
+2024-08-11 18:27:28,975 TRACE com.javarush.baliuk.hippodrome.Main: .........Pegasus
+2024-08-11 18:27:28,975 TRACE com.javarush.baliuk.hippodrome.Main: ..........Cherry
+2024-08-11 18:27:28,975 TRACE com.javarush.baliuk.hippodrome.Main: 
+
+2024-08-11 18:27:29,178 TRACE com.javarush.baliuk.hippodrome.Main: .........Bucephalus
+2024-08-11 18:27:29,178 TRACE com.javarush.baliuk.hippodrome.Main: ..........Ace of Spades
+2024-08-11 18:27:29,178 TRACE com.javarush.baliuk.hippodrome.Main: ..........Zephyr
+2024-08-11 18:27:29,178 TRACE com.javarush.baliuk.hippodrome.Main: ...........Blaze
+2024-08-11 18:27:29,178 TRACE com.javarush.baliuk.hippodrome.Main: ..........Lobster
+2024-08-11 18:27:29,178 TRACE com.javarush.baliuk.hippodrome.Main: .........Pegasus
+2024-08-11 18:27:29,179 TRACE com.javarush.baliuk.hippodrome.Main: ..........Cherry
+2024-08-11 18:27:29,179 TRACE com.javarush.baliuk.hippodrome.Main: 
+
+2024-08-11 18:27:29,383 TRACE com.javarush.baliuk.hippodrome.Main: ...........Bucephalus
+2024-08-11 18:27:29,383 TRACE com.javarush.baliuk.hippodrome.Main: ...........Ace of Spades
+2024-08-11 18:27:29,383 TRACE com.javarush.baliuk.hippodrome.Main: ...........Zephyr
+2024-08-11 18:27:29,383 TRACE com.javarush.baliuk.hippodrome.Main: .............Blaze
+2024-08-11 18:27:29,383 TRACE com.javarush.baliuk.hippodrome.Main: ............Lobster
+2024-08-11 18:27:29,383 TRACE com.javarush.baliuk.hippodrome.Main: ............Pegasus
+2024-08-11 18:27:29,383 TRACE com.javarush.baliuk.hippodrome.Main: ...........Cherry
+2024-08-11 18:27:29,383 TRACE com.javarush.baliuk.hippodrome.Main: 
+
+2024-08-11 18:27:29,588 TRACE com.javarush.baliuk.hippodrome.Main: ............Bucephalus
+2024-08-11 18:27:29,588 TRACE com.javarush.baliuk.hippodrome.Main: ............Ace of Spades
+2024-08-11 18:27:29,588 TRACE com.javarush.baliuk.hippodrome.Main: ............Zephyr
+2024-08-11 18:27:29,588 TRACE com.javarush.baliuk.hippodrome.Main: ..............Blaze
+2024-08-11 18:27:29,588 TRACE com.javarush.baliuk.hippodrome.Main: ..............Lobster
+2024-08-11 18:27:29,588 TRACE com.javarush.baliuk.hippodrome.Main: .............Pegasus
+2024-08-11 18:27:29,588 TRACE com.javarush.baliuk.hippodrome.Main: .............Cherry
+2024-08-11 18:27:29,588 TRACE com.javarush.baliuk.hippodrome.Main: 
+
+2024-08-11 18:27:29,794 TRACE com.javarush.baliuk.hippodrome.Main: ..............Bucephalus
+2024-08-11 18:27:29,794 TRACE com.javarush.baliuk.hippodrome.Main: ............Ace of Spades
+2024-08-11 18:27:29,794 TRACE com.javarush.baliuk.hippodrome.Main: ..............Zephyr
+2024-08-11 18:27:29,794 TRACE com.javarush.baliuk.hippodrome.Main: ................Blaze
+2024-08-11 18:27:29,794 TRACE com.javarush.baliuk.hippodrome.Main: ................Lobster
+2024-08-11 18:27:29,794 TRACE com.javarush.baliuk.hippodrome.Main: ..............Pegasus
+2024-08-11 18:27:29,794 TRACE com.javarush.baliuk.hippodrome.Main: ...............Cherry
+2024-08-11 18:27:29,794 TRACE com.javarush.baliuk.hippodrome.Main: 
+
+2024-08-11 18:27:30,001 INFO  com.javarush.baliuk.hippodrome.Main: Окончание скачек. Победитель: Blaze
+2024-08-11 18:49:20,978 DEBUG com.javarush.baliuk.hippodrome.Horse: Создание Horse, имя [Horse], скорость [5.0]
+2024-08-11 18:49:24,060 DEBUG com.javarush.baliuk.hippodrome.Horse: Создание Horse, имя [Horse], скорость [5.0]
+2024-08-11 19:11:38,560 ERROR com.javarush.baliuk.hippodrome.Horse: Distance is negative
+2024-08-11 19:11:38,570 ERROR com.javarush.baliuk.hippodrome.Horse: Distance is negative
+2024-08-11 19:11:38,572 ERROR com.javarush.baliuk.hippodrome.Horse: Speed is negative
+2024-08-11 19:11:38,573 ERROR com.javarush.baliuk.hippodrome.Horse: Name is null
+2024-08-11 19:11:38,619 DEBUG com.javarush.baliuk.hippodrome.Horse: Создание Horse, имя [Horse], скорость [2.5]
+2024-08-11 19:11:39,286 DEBUG com.javarush.baliuk.hippodrome.Horse: Создание Horse, имя [Horse], скорость [2.5]
+2024-08-11 19:11:39,289 DEBUG com.javarush.baliuk.hippodrome.Horse: Создание Horse, имя [Horse], скорость [2.5]
+2024-08-11 19:11:39,292 DEBUG com.javarush.baliuk.hippodrome.Horse: Создание Horse, имя [Horse], скорость [2.5]
+2024-08-11 19:11:39,295 DEBUG com.javarush.baliuk.hippodrome.Horse: Создание Horse, имя [Horse], скорость [2.5]
+2024-08-11 19:11:39,297 DEBUG com.javarush.baliuk.hippodrome.Horse: Создание Horse, имя [Horse], скорость [2.5]
+2024-08-11 19:11:39,300 DEBUG com.javarush.baliuk.hippodrome.Horse: Создание Horse, имя [Horse], скорость [2.5]
+2024-08-11 19:11:39,302 DEBUG com.javarush.baliuk.hippodrome.Horse: Создание Horse, имя [Horse], скорость [2.5]
+2024-08-11 19:11:39,304 DEBUG com.javarush.baliuk.hippodrome.Horse: Создание Horse, имя [Horse], скорость [2.5]
+2024-08-11 19:11:39,306 DEBUG com.javarush.baliuk.hippodrome.Horse: Создание Horse, имя [Horse], скорость [2.5]
+2024-08-11 19:11:39,312 DEBUG com.javarush.baliuk.hippodrome.Horse: Создание Horse, имя [Horse], скорость [5.0]
+2024-08-11 19:11:39,336 ERROR com.javarush.baliuk.hippodrome.Horse: Speed is negative
+2024-08-11 19:11:39,340 DEBUG com.javarush.baliuk.hippodrome.Horse: Создание Horse, имя [Horse], скорость [5.0]
+2024-08-11 19:11:39,342 DEBUG com.javarush.baliuk.hippodrome.Horse: Создание Horse, имя [Horse], скорость [5.0]
+2024-08-11 19:11:39,344 DEBUG com.javarush.baliuk.hippodrome.Horse: Создание Horse, имя [Horse], скорость [5.0]
+2024-08-11 19:11:39,346 DEBUG com.javarush.baliuk.hippodrome.Horse: Создание Horse, имя [Horse], скорость [5.0]
+2024-08-11 19:11:39,348 DEBUG com.javarush.baliuk.hippodrome.Horse: Создание Horse, имя [Horse], скорость [5.0]
+2024-08-11 19:11:39,350 DEBUG com.javarush.baliuk.hippodrome.Horse: Создание Horse, имя [Horse], скорость [5.0]
+2024-08-11 19:11:39,352 ERROR com.javarush.baliuk.hippodrome.Horse: Name is null
+2024-08-11 19:11:39,355 ERROR com.javarush.baliuk.hippodrome.Horse: Name is blank
+2024-08-11 19:11:39,357 ERROR com.javarush.baliuk.hippodrome.Horse: Name is blank
+2024-08-11 19:11:39,358 ERROR com.javarush.baliuk.hippodrome.Horse: Name is blank
+2024-08-11 19:11:39,360 ERROR com.javarush.baliuk.hippodrome.Horse: Name is blank
+2024-08-11 19:11:39,361 DEBUG com.javarush.baliuk.hippodrome.Horse: Создание Horse, имя [Horse], скорость [5.0]
+2024-08-11 19:11:39,361 DEBUG com.javarush.baliuk.hippodrome.Horse: Создание Horse, имя [Horse], скорость [5.0]
+2024-08-11 19:11:39,367 DEBUG com.javarush.baliuk.hippodrome.Horse: Создание Horse, имя [Horse], скорость [5.0]
+2024-08-11 19:11:39,368 DEBUG com.javarush.baliuk.hippodrome.Horse: Создание Horse, имя [Horse], скорость [5.0]
+2024-08-11 19:11:39,369 DEBUG com.javarush.baliuk.hippodrome.Horse: Создание Horse, имя [Horse], скорость [5.0]
+2024-08-11 19:11:39,373 ERROR com.javarush.baliuk.hippodrome.Horse: Name is blank
+2024-08-11 19:11:39,374 ERROR com.javarush.baliuk.hippodrome.Horse: Name is blank
+2024-08-11 19:11:39,376 ERROR com.javarush.baliuk.hippodrome.Horse: Name is blank
+2024-08-11 19:11:39,377 ERROR com.javarush.baliuk.hippodrome.Horse: Name is blank
